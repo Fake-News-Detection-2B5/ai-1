@@ -1,0 +1,25 @@
+Main
+accuracy                           0.60 DT
+accuracy                           1.00 KNN
+accuracy                           0.60 SVM
+accuracy                           0.60 NB
+# 0.1
+
+accuracy                           0.60 DT
+accuracy                           0.70 KNN
+accuracy                           0.40 SVM
+accuracy                           0.40 NB
+# 0.2
+
+Alternative
+accuracy                           0.20 DT
+accuracy                           0.40 KNN
+accuracy                           0.80 SVM
+accuracy                           0.60 NB
+# 0.1
+
+accuracy                           0.30 DT
+accuracy                           0.60 KNN
+accuracy                           0.30 SVM
+accuracy                           0.10 NB
+# 0.2
